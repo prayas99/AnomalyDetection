@@ -1,1 +1,1 @@
-# SoC-2020-Vanshii-IDS
+# SoC-2020-IDS
